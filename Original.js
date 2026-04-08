@@ -125,7 +125,7 @@ export default function Original() {
         value={input}
         onChangeText={setInput}
         placeholder="Escribe un jugador..."
-        placeholderTextColor="#aaa"
+        placeholderTextColor="white"
       />
 
       <TouchableOpacity style={styles.button} onPress={verificar}>
@@ -172,7 +172,6 @@ export default function Original() {
   );
 }
 
-// 🎨 TODO EL ESTILO AQUÍ MISMO
 const styles = StyleSheet.create({
   container: {
     flex: 1,
