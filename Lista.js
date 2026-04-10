@@ -25,7 +25,7 @@ export default function Lista() {
         "https://api.balldontlie.io/v1/players?per_page=10",
         {
           headers: {
-            Authorization: "63365c64-f024-42e5-bf26-56d1e6600ca0",
+            Authorization: "b3d0c32e-1481-49b6-b8a0-5cf7bd81a8e1",
           },
         }
       );
@@ -50,7 +50,7 @@ export default function Lista() {
           `https://api.balldontlie.io/v1/players?search=${search}`,
           {
             headers: {
-              Authorization: "63365c64-f024-42e5-bf26-56d1e6600ca0",
+              Authorization: "b3d0c32e-1481-49b6-b8a0-5cf7bd81a8e1",
             },
           }
         );

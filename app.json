@@ -4,7 +4,7 @@
     "slug": "RJN-Basket",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/icono.png",
     "userInterfaceStyle": "light",
     "newArchEnabled": true,
     "splash": {
@@ -17,7 +17,7 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
+        "foregroundImage": "./assets/adaptive-icono.png",
         "backgroundColor": "#ffffff"
       },
       "edgeToEdgeEnabled": true,
@@ -28,8 +28,9 @@
     },
     "extra": {
       "eas": {
-        "projectId": "2eb3ad2a-0632-4cac-844c-574841557015"
+        "projectId": "d81c8281-d86a-460a-b429-4042d797db6f"
       }
-    }
+    },
+    "owner": "nicolasrcaro"
   }
 }
